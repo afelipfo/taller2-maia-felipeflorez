@@ -245,4 +245,5 @@ def update_output_div(date, hour, proy):
 # Run the server
 if __name__ == "__main__":
 # Este es un cambio en la rama de visualización
+# Repositorio publicado en GitHub
     app.run(debug=True)
