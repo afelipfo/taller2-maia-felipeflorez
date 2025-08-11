@@ -249,3 +249,11 @@ if __name__ == "__main__":
 # Repositorio publicado en GitHub
 #Suponiendo que este es el archivo de mi compañero
     app.run(debug=True)
+
+
+# Hey master, que gusto trabajar contigo, espero este mensaje te encuentre bien.
+# Bendiciones hermano.
+# 
+# Pipe, hice dos commits en mi rama para dejar los cambios aca abajo para que podamos hacer el merge,
+# no va y sea la trampa de que al haber agregado este comentario al inicio del script,
+# el merge falle por lineas en conflicto.
